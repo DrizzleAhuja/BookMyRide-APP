@@ -46,7 +46,7 @@ BookMyRide provides a user-friendly interface to book rides, check ride status, 
 ## Installation
 1. Clone the repository.
    ```bash
-   git clone https://github.com/yourusername/BookMyRide-APP.git
+   git clone https://github.com/DRIZZLEAHUJA20/BookMyRide-APP.git
    
 2. Set up the MySQL database with the required tables.
 
